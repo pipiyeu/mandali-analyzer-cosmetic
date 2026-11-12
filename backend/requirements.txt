@@ -1,5 +1,5 @@
 fastapi
-uvicorn main:app --port 8000
+uvicorn app:app --port 8000
 pydantic
 joblib
 scikit-learn==1.7.2
