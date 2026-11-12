@@ -1,0 +1,10 @@
+fastapi
+uvicorn main:app --port 8000
+pydantic
+joblib
+scikit-learn==1.7.2
+scikit-multilearn
+xgboost
+pandas
+numpy
+scipy
